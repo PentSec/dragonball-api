@@ -4,6 +4,14 @@ import fs from 'fs';
 import { Character } from '../../types';
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
+    res.setHeader('Access-Control-Allow-Origin', '*'); 
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS'); 
+    res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
+
+    if (req.method === 'OPTIONS') {
+        return res.status(200).end();
+    }
+
     const filePath = path.join(process.cwd(), 'data', 'characters.json');
     const jsonData: Character[] = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
 
