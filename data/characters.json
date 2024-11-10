@@ -6920,7 +6920,7 @@
         "name": "Lunch",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Lunch",
-        "image": null,
+        "image": "images/Lunch_forma_mala_Artwork.jpg",
         "names": {
             "japanese": "ランチ",
             "latin": null,
@@ -7050,7 +7050,7 @@
         "name": "Marron",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Marron",
-        "image": null,
+        "image": "images/Marron_DBS.jpg",
         "names": {
             "japanese": "マーロン",
             "latin": null,
@@ -7411,10 +7411,10 @@
     },
     {
         "id": 291,
-        "name": "Panchy",
+        "name": "Brenda",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Panchy",
-        "image": null,
+        "image": "images/Panchy_DBS_Artwork.jpg",
         "names": {
             "japanese": "ビキニ",
             "latin": null,
@@ -7570,7 +7570,7 @@
         "name": "Pizza",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Pizza",
-        "image": null,
+        "image": "images/Pizza_dragon_ball_super.jpg",
         "names": {
             "japanese": "ピーザ",
             "latin": null,
@@ -7700,7 +7700,7 @@
         "name": "Rey Gyuma",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Rey_Gyuma",
-        "image": null,
+        "image": "images/Gyumao2013.jpg",
         "names": {
             "japanese": "牛 魔王",
             "latin": null,
@@ -7882,7 +7882,7 @@
         "name": "Mr. Satán",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Mr._Sat%C3%A1n",
-        "image": null,
+        "image": "images/Mr_Satan_DBSuper.jpg",
         "names": {
             "japanese": "ミスター・サタン",
             "latin": null,
@@ -8142,7 +8142,7 @@
         "name": "Suno",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Suno",
-        "image": null,
+        "image": "images/Suno.jpg",
         "names": {
             "japanese": "スノ",
             "latin": null,
@@ -8168,7 +8168,7 @@
         "name": "Tao Pai Pai",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Tao_Pai_Pai",
-        "image": null,
+        "image": "images/Tao_Pai_Pai_Artwork.jpg",
         "names": {
             "japanese": "桃白白",
             "latin": null,
@@ -8350,7 +8350,7 @@
         "name": "Oob",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Oob",
-        "image": null,
+        "image": "images/Artwork_de_Oob_en_Bucchigiri_Match.jpg",
         "names": {
             "japanese": "ウーブ",
             "latin": null,
@@ -8428,7 +8428,7 @@
         "name": "Videl",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Videl",
-        "image": null,
+        "image": "images/VidelDBSE.jpg",
         "names": {
             "japanese": "ビーデル",
             "latin": null,
@@ -8558,7 +8558,7 @@
         "name": "Yamcha",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Yamcha",
-        "image": null,
+        "image": "images/Dragon_Ball_Super_Yamcha.jpg",
         "names": {
             "japanese": "ヤムチャ",
             "latin": null,
@@ -8688,33 +8688,7 @@
         "name": "Bardock Xeno",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Bardock_Xeno",
-        "image": null,
-        "names": {
-            "japanese": "バーダック：ゼノ",
-            "latin": null,
-            "other_names": "Saiyano Enmascarado Guerrero de Negro"
-        },
-        "gender": "♂ Masculino",
-        "death_date": null,
-        "species": "Saiyano",
-        "origin": "Planeta Vegeta ( Universo 7 )",
-        "residence": null,
-        "family": "Kakarotto (Hijo) [1] Son Goku (Hijo)",
-        "occupation": "Destructor de la Historia (Anteriormente) [2] Patrullero del Tiempo (Anteriormente) Guerrero de Negro",
-        "debut": {
-            "saga": "Videojuego : Dragon Ball Online",
-            "manga": "Capítulo 1",
-            "volume": "Super Dragon Ball Heroes: ¡Misión al Reino Demoníaco Oscuro! 1",
-            "anime": "Embestida al campo de batalla. Dragon Ball Heroes",
-            "arc": "Arco del Reino Oscuro de los Demonios"
-        }
-    },
-    {
-        "id": 341,
-        "name": "Super Bardock",
-        "category": "Saiyan",
-        "url": "https://dragonball.fandom.com/es/wiki/Super_Bardock",
-        "image": null,
+        "image": "images/SDBH_-_EP43_(12).jpg",
         "names": {
             "japanese": "バーダック：ゼノ",
             "latin": null,
@@ -8948,7 +8922,7 @@
         "name": "Son Goku",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Son_Goku",
-        "image": null,
+        "image": "images/Son_Goku_en_Super_Hero.jpg",
         "names": {
             "japanese": "孫 悟 空 (カカロット)",
             "latin": null,
@@ -9026,7 +9000,7 @@
         "name": "Nappa",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Nappa",
-        "image": null,
+        "image": "images/Nappa_Artwork.jpg",
         "names": {
             "japanese": "ナッパ",
             "latin": null,
@@ -9156,7 +9130,7 @@
         "name": "Panppukin",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Panppukin",
-        "image": null,
+        "image": "images/Panppukin_Artwork.jpg",
         "names": {
             "japanese": "パンブーキン",
             "latin": null,
@@ -9208,7 +9182,7 @@
         "name": "Raditz",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Raditz",
-        "image": null,
+        "image": "images/Raditz_artwork_Dokkan.jpg",
         "names": {
             "japanese": "ラディッツ",
             "latin": null,
@@ -9260,7 +9234,7 @@
         "name": "Toteppo",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Toteppo",
-        "image": null,
+        "image": "images/Toteppo_Artwork.jpg",
         "names": {
             "japanese": "トテッポ",
             "latin": null,
@@ -9360,32 +9334,6 @@
         }
     },
     {
-        "id": 366,
-        "name": "Turles",
-        "category": "Saiyan",
-        "url": "https://dragonball.fandom.com/es/wiki/Turles",
-        "image": null,
-        "names": {
-            "japanese": "ターレス",
-            "latin": null,
-            "other_names": "Tulece Turles Taurus Tares"
-        },
-        "gender": "♂ Masculino",
-        "death_date": "Año 762 [2] Año 767 [3] Año 781",
-        "species": "Saiyano",
-        "origin": "Planeta Vegeta",
-        "residence": null,
-        "family": null,
-        "occupation": "Pirata espacial Líder del Pelotón Triturador de Tullece Miembro de los Reyes de la Destrucción Aliado de Fu",
-        "debut": {
-            "saga": "Anime : Episodio 3 Película : La superbatalla decisiva por toda la Tierra Manga : Capítulo 4 OVA : El plan para erradicar a los saiyanos Videojuego : Dragon Ball Z Gaiden: Shin Saiya-jin Zetsumetsu Keikaku Chikyū-Hen",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
         "id": 367,
         "name": "Turles Xeno",
         "category": "Saiyan",
@@ -9416,7 +9364,7 @@
         "name": "Vegeta",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Vegeta",
-        "image": null,
+        "image": "images/Vegeta_en_Super_Hero.jpg",
         "names": {
             "japanese": "ベジータ四世",
             "latin": null,
@@ -9468,7 +9416,7 @@
         "name": "Vegeta Xeno",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Vegeta_Xeno",
-        "image": null,
+        "image": "images/Vegeta_Xeno_SDBHWM_UM22.jpg",
         "names": {
             "japanese": "ベジータ：ゼノ",
             "latin": null,
@@ -9494,7 +9442,7 @@
         "name": "Vegeks Xeno",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Vegeks_Xeno",
-        "image": null,
+        "image": "images/Vegeks_Xeno_Render.jpg",
         "names": {
             "japanese": "ベジークス：ゼノ",
             "latin": null,
@@ -9676,7 +9624,7 @@
         "name": "Cumber",
         "category": "Saiyan",
         "url": "https://dragonball.fandom.com/es/wiki/Cumber",
-        "image": null,
+        "image": "images/Artwork_de_Cumber_en_SDBH.jpg",
         "names": {
             "japanese": "カンバー",
             "latin": null,
@@ -9728,7 +9676,7 @@
         "name": "Baby Vegeta",
         "category": "Tsufur",
         "url": "https://dragonball.fandom.com/es/wiki/Baby_Vegeta",
-        "image": null,
+        "image": "images/Baby_Vegeta_Artwork.jpg",
         "names": {
             "japanese": "ベジータベビー",
             "latin": null,
@@ -9884,7 +9832,7 @@
         "name": "Kamin",
         "category": "Tsufur",
         "url": "https://dragonball.fandom.com/es/wiki/Kamin",
-        "image": null,
+        "image": "images/Artwork_de_Kamin_en_SDBH.jpg",
         "names": {
             "japanese": "カミン",
             "latin": null,
@@ -9910,7 +9858,7 @@
         "name": "Oran",
         "category": "Tsufur",
         "url": "https://dragonball.fandom.com/es/wiki/Oran",
-        "image": null,
+        "image": "images/Artwork_de_Oran.jpg",
         "names": {
             "japanese": "オレン",
             "latin": null,
@@ -10765,7 +10713,7 @@
     },
     {
         "id": 420,
-        "name": "Beerus",
+        "name": "Bills",
         "category": "Dioses de la Destrucción",
         "url": "https://dragonball.fandom.com/es/wiki/Beerus",
         "image": "images/Beerus.jpg",
@@ -11054,7 +11002,7 @@
         "name": "Mule (Mosco)",
         "category": "Dioses de la Destrucción",
         "url": "https://dragonball.fandom.com/es/wiki/Mule_(Mosco)",
-        "image": null,
+        "image": "images/Mosco2.jpg",
         "names": {
             "japanese": "ミュール モスコ",
             "latin": null,
@@ -11184,7 +11132,7 @@
         "name": "Goku",
         "category": "Estudiantes de los Kaio",
         "url": "https://dragonball.fandom.com/es/wiki/Son_Goku",
-        "image": null,
+        "image": "images/Son_Goku_en_Super_Hero.jpg",
         "names": {
             "japanese": "孫 悟 空 (カカロット)",
             "latin": null,
@@ -11314,7 +11262,7 @@
         "name": "Paikuhan",
         "category": "Estudiantes de los Kaio",
         "url": "https://dragonball.fandom.com/es/wiki/Paikuhan",
-        "image": null,
+        "image": "images/PIKKON_Relleno.jpg",
         "names": {
             "japanese": "パイクーハン",
             "latin": null,
@@ -11496,7 +11444,7 @@
         "name": "Bojack",
         "category": "Guerreros de Plata",
         "url": "https://dragonball.fandom.com/es/wiki/Bojack",
-        "image": null,
+        "image": "images/Boujack_artwork_DBDokkanBattle.jpg",
         "names": {
             "japanese": "ボージャック",
             "latin": null,
@@ -11730,7 +11678,7 @@
         "name": "Zarbon",
         "category": "Ejército de Freeza",
         "url": "https://dragonball.fandom.com/es/wiki/Zarbon",
-        "image": null,
+        "image": "images/Zarbon_artwork_Broly.jpg",
         "names": {
             "japanese": "ザーボン",
             "latin": null,
@@ -11912,7 +11860,7 @@
         "name": "Shin",
         "category": "Kaio-shin",
         "url": "https://dragonball.fandom.com/es/wiki/Shin",
-        "image": null,
+        "image": "images/Shin_en_Dragon_Ball_Daima.jpg",
         "names": {
             "japanese": "シン",
             "latin": null,
@@ -12120,7 +12068,7 @@
         "name": "Chronoa",
         "category": "Kaio-shin",
         "url": "https://dragonball.fandom.com/es/wiki/Chronoa",
-        "image": null,
+        "image": "images/Kaio-shin_del_Tiempo_Chronoa_Artwork.jpg",
         "names": {
             "japanese": "クロノア",
             "latin": null,
@@ -12198,7 +12146,7 @@
         "name": "Goku Black",
         "category": "Kaio-shin",
         "url": "https://dragonball.fandom.com/es/wiki/Goku_Black",
-        "image": null,
+        "image": "images/Goku_Black_Artwork_DBS.jpg",
         "names": {
             "japanese": "ゴクウブラック",
             "latin": null,
@@ -12224,7 +12172,7 @@
         "name": "Zamas Fusión",
         "category": "Kaio-shin",
         "url": "https://dragonball.fandom.com/es/wiki/Zamas_Fusi%C3%B3n",
-        "image": null,
+        "image": "images/Zamas_Fusión_render.jpg",
         "names": {
             "japanese": "ザマス： 合 体",
             "latin": null,
@@ -12458,7 +12406,7 @@
         "name": "Kibito",
         "category": "Asistentes de losKaio-shin",
         "url": "https://dragonball.fandom.com/es/wiki/Kibito",
-        "image": null,
+        "image": "images/Kibito_en_Dragon_Ball_Daima.jpg",
         "names": {
             "japanese": "キビト",
             "latin": null,
@@ -12666,7 +12614,7 @@
         "name": "Gyoshu y Kakuja",
         "category": "Secuaces de Slug",
         "url": "https://dragonball.fandom.com/es/wiki/Gyoshu_y_Kakuja",
-        "image": null,
+        "image": "images/Gyoshu.jpg",
         "names": {
             "japanese": null,
             "latin": null,
@@ -12822,7 +12770,7 @@
         "name": "Casseral",
         "category": "Tropas del Orgullo",
         "url": "https://dragonball.fandom.com/es/wiki/Casseral",
-        "image": null,
+        "image": "images/Casseral_Artwork.jpg",
         "names": {
             "japanese": "カーセラル",
             "latin": null,
@@ -13160,7 +13108,7 @@
         "name": "General Rildo",
         "category": "Máquinas mutantes",
         "url": "https://dragonball.fandom.com/es/wiki/General_Rildo",
-        "image": null,
+        "image": "images/Rildo_Artwork.jpg",
         "names": {
             "japanese": "リルド 将 軍",
             "latin": null,
@@ -13420,7 +13368,7 @@
         "name": "Dr. Gero",
         "category": "Soldados deEjército Red Ribbon",
         "url": "https://dragonball.fandom.com/es/wiki/Dr._Gero",
-        "image": null,
+        "image": "images/Dr_Gero_Artwork.jpg",
         "names": {
             "japanese": "ドクター・ゲロ",
             "latin": null,
@@ -13595,32 +13543,6 @@
             "volume": "Tomo 5",
             "anime": "Episodio 36",
             "arc": "Arco del Ejército del Listón Rojo"
-        }
-    },
-    {
-        "id": 532,
-        "name": "Tao Pai Pai",
-        "category": "Soldados deEjército Red Ribbon",
-        "url": "https://dragonball.fandom.com/es/wiki/Tao_Pai_Pai",
-        "image": null,
-        "names": {
-            "japanese": "桃白白",
-            "latin": null,
-            "other_names": "Tou Pai Pai (Nombre utilizado antiguamente en el doblaje castellano)"
-        },
-        "gender": "♂ Masculino",
-        "death_date": null,
-        "species": "Androide Humano",
-        "origin": "Tierra ( Universo 7 )",
-        "residence": null,
-        "family": "Tsuru Sen'nin [6]",
-        "occupation": "Asesino profesional [4] Artista Marcial Miembro de la Escuela de la Grulla Miembro del Ejército de los Pantalones Rojos [5]",
-        "debut": {
-            "saga": "Manga: Capitulo 85 Anime: Episodio 58",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
         }
     },
     {
@@ -14066,58 +13988,6 @@
         }
     },
     {
-        "id": 550,
-        "name": "Son Goku",
-        "category": "Patrulleros Galácticos",
-        "url": "https://dragonball.fandom.com/es/wiki/Son_Goku",
-        "image": null,
-        "names": {
-            "japanese": "孫 悟 空 (カカロット)",
-            "latin": null,
-            "other_names": "Kakarotto Kakarot Kacarrot Kakarrot Goku (doblaje hipanoamericano) Zero (Doblaje de Zero y el dragón mágico ) Son Gokou ( Super Dragon Ball Heroes ) Hijo de Bardock (Apodo utilizado por Monite )"
-        },
-        "gender": "♂ Masculino",
-        "death_date": "12 de octubre, Año 761 (revivido el 2 de noviembre del Año 762) 26 de mayo, Año 767 (revivido el 8 de mayo del Año 774) Año 780 (anime, revivido el mismo día) [4] Año 801 ( Dragon Ball Online ) [5]",
-        "species": "Saiyano",
-        "origin": "Planeta Vegeta ( Universo 7 ) [36]",
-        "residence": "Distrito Este 439 ( Montaña Paoz , Tierra )",
-        "family": "Bardock (Padre) Gine (Madre) Raditz (Hermano mayor) Chi-Chi (Esposa) Son Gohan (Hijo mayor) Son Goten (Hijo menor) Pan (Nieta) Goku Jr. (Tataranieto; únicamente en Dragon Ball GT ) Abuelo Gohan (Abuelo adoptivo) Rey Gyuma (Suegro) Madre de Chi-Chi (Suegra) Videl (Nuera) Mr. Satán (Consuegro) Miguel (Consuegra)",
-        "occupation": "Artista marcial [27] Agricultor [28] Miembro del Equipo Universo 7 Guerrero Z Príncipe consorte del monte Fry-pan [29] Patrullero Galáctico [30] Guardaespaldas [31] Constructor y repartidor temporal [32] Soldado del Ejército Saiyano de clase baja del Ejército de Freeza [33] Infante volador [34] Bombero [35]",
-        "debut": {
-            "saga": "Manga : Capítulo 1 Anime : Episodio 1 Película : La princesa durmiente en el castillo del espíritu maligno Videojuego : Dragon Daihikyou Novela ligera : Broly",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 551,
-        "name": "Vegeta",
-        "category": "Patrulleros Galácticos",
-        "url": "https://dragonball.fandom.com/es/wiki/Vegeta",
-        "image": null,
-        "names": {
-            "japanese": "ベジータ四世",
-            "latin": null,
-            "other_names": "Príncipe Vegeta Veyita Vegita"
-        },
-        "gender": "♂ Masculino",
-        "death_date": "24 de diciembre del Año 762 (resucitado) 7 de mayo del Año 774 (resucitado) Junio del Año 779 (muerte revertida ) Año 801 ( Dragon Ball Online ) [4] Alrededor del Año 889 ( 100 Años Después , Dragon Ball GT )",
-        "species": "Saiyano",
-        "origin": "Planeta Vegeta ( Universo 7 )",
-        "residence": "Corporación Cápsula ( Tierra )",
-        "family": "Bulma [16] Trunks [17] Bra [18] Trunks del Futuro [19] Vegeta del Futuro [20] Vegeta III [21] Tarble [22] Dr. Brief [23] Panchy [24] Tight [25] Gure [25] Madre de Vegeta Jr. [26] Vegeta Jr. [26]",
-        "occupation": "Príncipe de la familia real saiyana Artista marcial [13] Guerrero Z Miembro del Equipo Universo 7 Patrullero Galáctico [14] Ex soldado saiyano de Freeza de clase alta [15]",
-        "debut": {
-            "saga": "Manga : Capítulo 204 Anime : Episodio 5 Película : ¡Choque! Los guerreros con un poder de diez mil millones Videojuego : Kyōshū! Saiya-jin Novela ligera : Broly",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
         "id": 552,
         "name": "Niño Verde Extraterrestre",
         "category": "Anónimos parasitados por Baby",
@@ -14148,7 +14018,7 @@
         "name": "Hearts",
         "category": "Liga de la Erradicación de los Reyes de Todo",
         "url": "https://dragonball.fandom.com/es/wiki/Hearts",
-        "image": null,
+        "image": "images/Arte_de_Hearts_en_SDBHBM.jpg",
         "names": {
             "japanese": "ハーツ",
             "latin": null,
@@ -14167,32 +14037,6 @@
             "volume": "Super Dragon Ball Heroes: ¡Misión del Ultradiós! 1",
             "anime": "Episodio 6",
             "arc": "Arco del Conflicto Bélico Universal"
-        }
-    },
-    {
-        "id": 554,
-        "name": "Cumber",
-        "category": "Liga de la Erradicación de los Reyes de Todo",
-        "url": "https://dragonball.fandom.com/es/wiki/Cumber",
-        "image": null,
-        "names": {
-            "japanese": "カンバー",
-            "latin": null,
-            "other_names": "Cunber Saiyano Maligno Saiyano Antiguo Maligno"
-        },
-        "gender": "♂ Masculino",
-        "death_date": null,
-        "species": null,
-        "origin": "Sadala ( Universo 7 )",
-        "residence": null,
-        "family": null,
-        "occupation": "Administrador de un Planeta Aprisionado Miembro de la Liga de la Erradicación de los Reyes de Todo Participante del Ultratorneo del Espacio-Tiempo",
-        "debut": {
-            "saga": "Videojuego : Super Dragon Ball Heroes",
-            "manga": "Capítulo 2",
-            "volume": "Super Dragon Ball Heroes: ¡Misión del universo! 1",
-            "anime": "Episodio 1",
-            "arc": null
         }
     },
     {
@@ -14241,84 +14085,6 @@
         "occupation": null,
         "debut": {
             "saga": "Anime : Episodio 10 Manga : Capítulo 8 Videojuego : Super Dragon Ball Heroes",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 557,
-        "name": "Kamin",
-        "category": "Liga de la Erradicación de los Reyes de Todo",
-        "url": "https://dragonball.fandom.com/es/wiki/Kamin",
-        "image": null,
-        "names": {
-            "japanese": "カミン",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♀ Femenino",
-        "death_date": "Año 780",
-        "species": "Nueva máquina mutante tsufruiana",
-        "origin": "Planeta Tsufrui ( Universo 6 )",
-        "residence": null,
-        "family": "Oran (hermano gemelo)",
-        "occupation": "Miembro de la Liga de la Erradicación de los Reyes de Todo",
-        "debut": {
-            "saga": "Videojuego : Super Dragon Ball Heroes Anime : Episodio 6 Manga : Capítulo 6",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 558,
-        "name": "Oran",
-        "category": "Liga de la Erradicación de los Reyes de Todo",
-        "url": "https://dragonball.fandom.com/es/wiki/Oran",
-        "image": null,
-        "names": {
-            "japanese": "オレン",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♂ Masculino",
-        "death_date": "Año 780",
-        "species": "Nueva máquina mutante tsufruiano",
-        "origin": "Planeta Tsufrui ( Universo 6 )",
-        "residence": null,
-        "family": "Kamin (hermana gemela)",
-        "occupation": "Miembro de la Liga de la Erradicación de los Reyes de Todo",
-        "debut": {
-            "saga": "Videojuego : Super Dragon Ball Heroes Anime : Episodio 6 (Super Dragon Ball Heroes: Misión del universo) Manga : Capítulo 6 (Super Dragon Ball Heroes: ¡Misión del universo!)",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 559,
-        "name": "Zamas Fusión",
-        "category": "Liga de la Erradicación de los Reyes de Todo",
-        "url": "https://dragonball.fandom.com/es/wiki/Zamas_Fusi%C3%B3n",
-        "image": null,
-        "names": {
-            "japanese": "ザマス： 合 体",
-            "latin": null,
-            "other_names": "Zamas Unificado Zamas Sagrado [1] Zamas"
-        },
-        "gender": "♂ Masculino",
-        "death_date": "Año 796 Año 780 [2]",
-        "species": "Saiyano Nucleico benigno Cíborg [3]",
-        "origin": null,
-        "residence": null,
-        "family": null,
-        "occupation": "Kaio-shin [4] Kaio-shin no oficial [5] Sublíder de la Liga de la Erradicación de los Reyes de Todo (traidor) [6]",
-        "debut": {
-            "saga": "Anime : Episodio 64 Manga : Capítulo 22 Videojuegos : Super Dragon Ball Heroes",
             "manga": null,
             "volume": null,
             "anime": null,
@@ -14486,7 +14252,7 @@
         "name": "Brianne de Chateau",
         "category": "Universo 2",
         "url": "https://dragonball.fandom.com/es/wiki/Brianne_de_Chateau",
-        "image": null,
+        "image": "images/Brianne_de_Chateau_render.jpg",
         "names": {
             "japanese": "ブリアンデシャトー",
             "latin": null,
@@ -14538,7 +14304,7 @@
         "name": "Sanka Ku",
         "category": "Universo 2",
         "url": "https://dragonball.fandom.com/es/wiki/Sanka_Ku",
-        "image": null,
+        "image": "images/Sanka_Ku_render.jpg",
         "names": {
             "japanese": "サンカ゠クー",
             "latin": null,
@@ -14564,7 +14330,7 @@
         "name": "Su Roas",
         "category": "Universo 2",
         "url": "https://dragonball.fandom.com/es/wiki/Su_Roas",
-        "image": null,
+        "image": "images/Su_Roas_render.jpg",
         "names": {
             "japanese": "スー゠ロースー",
             "latin": null,
@@ -14798,7 +14564,7 @@
         "name": "Mosco",
         "category": "Universo 3",
         "url": "https://dragonball.fandom.com/es/wiki/Mosco",
-        "image": null,
+        "image": "images/Mosco2.jpg",
         "names": {
             "japanese": "ミュール モスコ",
             "latin": null,
@@ -15730,32 +15496,6 @@
         }
     },
     {
-        "id": 614,
-        "name": "Frost",
-        "category": "Universo 6",
-        "url": "https://dragonball.fandom.com/es/wiki/Frost",
-        "image": null,
-        "names": {
-            "japanese": "フロスト",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♂ Masculino",
-        "death_date": "Año 780 (restaurado)",
-        "species": "Raza de Frost",
-        "origin": "Universo 6",
-        "residence": null,
-        "family": null,
-        "occupation": "Miembro del Equipo Universo 6 Emperador del Universo 6 Pacifista [1] Líder de los Piratas Espaciales",
-        "debut": {
-            "saga": "Anime : Episodio 32 (Dragon Ball Super) Manga : Capítulo 7 (Dragon Ball Super) Videojuego : Super Dragon Ball Heroes",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
         "id": 615,
         "name": "Botamo",
         "category": "Universo 6",
@@ -15905,58 +15645,6 @@
         "occupation": "Miembro del Equipo del Universo 6",
         "debut": {
             "saga": "Anime : Episodio 114 (Dragon Ball Super) Manga : Capítulo 38 (Dragon Ball Super) Película : Dragon Ball Super: Broly Cameo Videojuego : Super Dragon Ball Heroes",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 621,
-        "name": "Kamin",
-        "category": "Universo 6",
-        "url": "https://dragonball.fandom.com/es/wiki/Kamin",
-        "image": null,
-        "names": {
-            "japanese": "カミン",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♀ Femenino",
-        "death_date": "Año 780",
-        "species": "Nueva máquina mutante tsufruiana",
-        "origin": "Planeta Tsufrui ( Universo 6 )",
-        "residence": null,
-        "family": "Oran (hermano gemelo)",
-        "occupation": "Miembro de la Liga de la Erradicación de los Reyes de Todo",
-        "debut": {
-            "saga": "Videojuego : Super Dragon Ball Heroes Anime : Episodio 6 Manga : Capítulo 6",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 622,
-        "name": "Oran",
-        "category": "Universo 6",
-        "url": "https://dragonball.fandom.com/es/wiki/Oran",
-        "image": null,
-        "names": {
-            "japanese": "オレン",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♂ Masculino",
-        "death_date": "Año 780",
-        "species": "Nueva máquina mutante tsufruiano",
-        "origin": "Planeta Tsufrui ( Universo 6 )",
-        "residence": null,
-        "family": "Kamin (hermana gemela)",
-        "occupation": "Miembro de la Liga de la Erradicación de los Reyes de Todo",
-        "debut": {
-            "saga": "Videojuego : Super Dragon Ball Heroes Anime : Episodio 6 (Super Dragon Ball Heroes: Misión del universo) Manga : Capítulo 6 (Super Dragon Ball Heroes: ¡Misión del universo!)",
             "manga": null,
             "volume": null,
             "anime": null,
