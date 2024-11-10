@@ -82,7 +82,7 @@
         "name": "Androide Número 13",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Androide_N%C3%BAmero_13",
-        "image": null,
+        "image": "images/Androide13normal.jpg",
         "names": {
             "japanese": "人造人間13号",
             "latin": null,
@@ -212,7 +212,7 @@
         "name": "Androide Número 17",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Androide_N%C3%BAmero_17",
-        "image": null,
+        "image": "images/Androide_17_DBS_Artwork.jpg",
         "names": {
             "japanese": "人造人間１７号",
             "latin": null,
@@ -290,7 +290,7 @@
         "name": "Androide Número 18",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Androide_N%C3%BAmero_18",
-        "image": null,
+        "image": "images/Androide_N_mero_18_en_Super_Hero.jpg",
         "names": {
             "japanese": "人造人間１８号",
             "latin": null,
@@ -420,7 +420,7 @@
         "name": "Bio-Broly",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Bio-Broly",
-        "image": null,
+        "image": "images/Bio_Broly_Artwork.jpg",
         "names": {
             "japanese": "バイオブロリ",
             "latin": null,
@@ -524,7 +524,7 @@
         "name": "Cell",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Cell",
-        "image": null,
+        "image": "images/Cell_Perfecto_Dokkan.jpg",
         "names": {
             "japanese": "セル",
             "latin": null,
@@ -706,7 +706,7 @@
         "name": "Dr. Gero",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Dr._Gero",
-        "image": null,
+        "image": "images/Dr_Gero_Artwork.jpg",
         "names": {
             "japanese": "ドクター・ゲロ",
             "latin": null,
@@ -914,7 +914,7 @@
         "name": "Super Número 17",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Super_N%C3%BAmero_17",
-        "image": null,
+        "image": "images/Super_17_SDBHWM.jpg",
         "names": {
             "japanese": "超 １７号",
             "latin": null,
@@ -940,7 +940,7 @@
         "name": "Dr. Wheelo",
         "category": "Androides",
         "url": "https://dragonball.fandom.com/es/wiki/Dr._Wheelo",
-        "image": null,
+        "image": "images/Dr_Uiro_SDBHWM.jpg",
         "names": {
             "japanese": "ウィロー",
             "latin": null,
@@ -1278,7 +1278,7 @@
         "name": "Oolong",
         "category": "Animales",
         "url": "https://dragonball.fandom.com/es/wiki/Oolong",
-        "image": null,
+        "image": "images/Oolong_Artwork.jpg",
         "names": {
             "japanese": "ウーロン",
             "latin": null,
@@ -1590,7 +1590,7 @@
         "name": "Shu",
         "category": "Animales",
         "url": "https://dragonball.fandom.com/es/wiki/Shu",
-        "image": null,
+        "image": "images/Shu_Dokkan.jpg",
         "names": {
             "japanese": "シュウ",
             "latin": null,
@@ -2214,7 +2214,7 @@
         "name": "Tenshinhan",
         "category": "Clan de tres ojos",
         "url": "https://dragonball.fandom.com/es/wiki/Tenshinhan",
-        "image": null,
+        "image": "images/Tenshinhan_Universo7.jpg",
         "names": {
             "japanese": "天 津 飯",
             "latin": null,
@@ -2292,7 +2292,7 @@
         "name": "Dabra del Futuro Alternativo",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Dabra_del_Futuro_Alternativo",
-        "image": null,
+        "image": "images/Darbra_Futuro_Alternativo_Shin_Budokai_artwork.jpg",
         "names": {
             "japanese": "未来のダーブラ",
             "latin": null,
@@ -2318,7 +2318,7 @@
         "name": "Fu",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Fu",
-        "image": null,
+        "image": "images/Arte_del_Joven_Fu_fusionado_con_Dogi-Dogi.jpg",
         "names": {
             "japanese": "フュー (夫)",
             "latin": null,
@@ -2370,7 +2370,7 @@
         "name": "Garlic Jr.",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Garlic_Jr.",
-        "image": null,
+        "image": "images/Garlick_Jr._SDBHWM.jpg",
         "names": {
             "japanese": "ガーリックジュニア.",
             "latin": null,
@@ -2422,7 +2422,7 @@
         "name": "Hildegarn",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Hildegarn",
-        "image": null,
+        "image": "images/Hildegarn_Pre-Transformaci_n_Artwork.jpg",
         "names": {
             "japanese": "ヒルデガーン",
             "latin": null,
@@ -2448,7 +2448,7 @@
         "name": "Janemba",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Janemba",
-        "image": null,
+        "image": "images/Janemba_artwork_SDBH.jpg",
         "names": {
             "japanese": "ジャネンバ",
             "latin": null,
@@ -2578,7 +2578,7 @@
         "name": "Mechikabra",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Mechikabra",
-        "image": null,
+        "image": "images/Artwork_de_Mechickaboola_como_el_Rey_Oscuro_SDBH.jpg",
         "names": {
             "japanese": "メチカブラ",
             "latin": null,
@@ -2734,7 +2734,7 @@
         "name": "Towa",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Towa",
-        "image": null,
+        "image": "images/Towa_SDBH_Big_Bang_artwork.jpg",
         "names": {
             "japanese": "トワ",
             "latin": null,
@@ -2760,7 +2760,7 @@
         "name": "Putine",
         "category": "Demonios",
         "url": "https://dragonball.fandom.com/es/wiki/Putine",
-        "image": null,
+        "image": "images/Artwork_de_Putine_en_SDBHBM.jpg",
         "names": {
             "japanese": "プティン",
             "latin": null,
@@ -3306,7 +3306,7 @@
         "name": "Guerrero Fantasma de Turles",
         "category": "Guerreros Fantasmas",
         "url": "https://dragonball.fandom.com/es/wiki/Guerreros_Fantasma_de_Turles",
-        "image": null,
+        "image": "images/Tullece_SDBHWM_Artwork.jpg",
         "names": {
             "japanese": "ターレス",
             "latin": null,
@@ -3436,7 +3436,7 @@
         "name": "Bojack",
         "category": "Hera",
         "url": "https://dragonball.fandom.com/es/wiki/Bojack",
-        "image": null,
+        "image": "images/Boujack_artwork_DBDokkanBattle.jpg",
         "names": {
             "japanese": "ボージャック",
             "latin": null,
@@ -3748,7 +3748,7 @@
         "name": "Babidi del Futuro Alternativo",
         "category": "Majin",
         "url": "https://dragonball.fandom.com/es/wiki/Babidi_del_Futuro_Alternativo",
-        "image": null,
+        "image": "images/Bobbidi_del_futuro_DBS.jpg",
         "names": {
             "japanese": "未来のバビディ",
             "latin": null,
@@ -3800,7 +3800,7 @@
         "name": "Boo Gordo",
         "category": "Majin",
         "url": "https://dragonball.fandom.com/es/wiki/Boo_Gordo",
-        "image": null,
+        "image": "images/BuuGordo_Universo7.jpg",
         "names": {
             "japanese": "魔人ブウ (善)",
             "latin": null,
@@ -3852,7 +3852,7 @@
         "name": "Dabra del Futuro Alternativo",
         "category": "Majin",
         "url": "https://dragonball.fandom.com/es/wiki/Dabra_del_Futuro_Alternativo",
-        "image": null,
+        "image": "images/Darbra_Futuro_Alternativo_Shin_Budokai_artwork.jpg",
         "names": {
             "japanese": "未来のダーブラ",
             "latin": null,
@@ -4008,7 +4008,7 @@
         "name": "Super Boo",
         "category": "Majin",
         "url": "https://dragonball.fandom.com/es/wiki/Super_Boo",
-        "image": null,
+        "image": "images/Super_Buu_Artwork.jpg",
         "names": {
             "japanese": "魔人ブウ悪",
             "latin": null,
@@ -4101,58 +4101,6 @@
         "occupation": null,
         "debut": {
             "saga": null,
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 158,
-        "name": "Garlick",
-        "category": "Makyanos",
-        "url": "https://dragonball.fandom.com/es/wiki/Garlick",
-        "image": "images/Garlick.jpg",
-        "names": {
-            "japanese": "ガーリック",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♂ Masculino",
-        "death_date": null,
-        "species": "Malévolo",
-        "origin": "Planeta Makyo",
-        "residence": null,
-        "family": "Garlic Jr. [1]",
-        "occupation": "Rey del Planeta Makyo",
-        "debut": {
-            "saga": "Anime : Episodio 109 Retrospección Película : Dragon Ball Z Retrospección",
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 159,
-        "name": "Garlic Jr.",
-        "category": "Makyanos",
-        "url": "https://dragonball.fandom.com/es/wiki/Garlic_Jr.",
-        "image": null,
-        "names": {
-            "japanese": "ガーリックジュニア.",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♂ Masculino",
-        "death_date": null,
-        "species": "Malévolo",
-        "origin": "Planeta Makyo",
-        "residence": null,
-        "family": "Garlic [1]",
-        "occupation": "Villano Principal",
-        "debut": {
-            "saga": "Anime : Episodio 108 (Dragon Ball Z) Película : Dragon Ball Z Videojuego : Dragon Ball Z: Kyōshū! Saiyan",
             "manga": null,
             "volume": null,
             "anime": null,
@@ -4424,7 +4372,7 @@
         "name": "Dende (Kami)",
         "category": "Namekianos",
         "url": "https://dragonball.fandom.com/es/wiki/Dende",
-        "image": null,
+        "image": "images/Arte_de_Dend__en_Super_Hero.jpg",
         "names": {
             "japanese": "デンデ",
             "latin": null,
@@ -4680,84 +4628,6 @@
         }
     },
     {
-        "id": 180,
-        "name": "Namekiano Joven",
-        "category": "Namekianos",
-        "url": "https://dragonball.fandom.com/es/wiki/Namekiano_Joven",
-        "image": null,
-        "names": {
-            "japanese": null,
-            "latin": null,
-            "other_names": null
-        },
-        "gender": null,
-        "death_date": null,
-        "species": null,
-        "origin": null,
-        "residence": null,
-        "family": null,
-        "occupation": null,
-        "debut": {
-            "saga": null,
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 181,
-        "name": "Namekiano 2",
-        "category": "Namekianos",
-        "url": "https://dragonball.fandom.com/es/wiki/Namekiano_2",
-        "image": null,
-        "names": {
-            "japanese": null,
-            "latin": null,
-            "other_names": null
-        },
-        "gender": null,
-        "death_date": null,
-        "species": null,
-        "origin": null,
-        "residence": null,
-        "family": null,
-        "occupation": null,
-        "debut": {
-            "saga": null,
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
-        "id": 182,
-        "name": "Namekiano 3",
-        "category": "Namekianos",
-        "url": "https://dragonball.fandom.com/es/wiki/Namekiano_3",
-        "image": null,
-        "names": {
-            "japanese": null,
-            "latin": null,
-            "other_names": null
-        },
-        "gender": null,
-        "death_date": null,
-        "species": null,
-        "origin": null,
-        "residence": null,
-        "family": null,
-        "occupation": null,
-        "debut": {
-            "saga": null,
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
         "id": 183,
         "name": "Piano",
         "category": "Namekianos",
@@ -4788,7 +4658,7 @@
         "name": "Piccolo",
         "category": "Namekianos",
         "url": "https://dragonball.fandom.com/es/wiki/Piccolo",
-        "image": null,
+        "image": "images/Piccolo_en_Super_Hero.jpg",
         "names": {
             "japanese": "ピッコロ",
             "latin": null,
@@ -4840,7 +4710,7 @@
         "name": "Rey Demonio Piccolo",
         "category": "Namekianos",
         "url": "https://dragonball.fandom.com/es/wiki/Rey_Demonio_Piccolo",
-        "image": null,
+        "image": "images/Rey_Demonio_Piccolo_rejuvenecido_Artwork.jpg",
         "names": {
             "japanese": "ピッコロ 大 魔王",
             "latin": null,
@@ -5256,7 +5126,7 @@
         "name": "Coola",
         "category": "Raza de Freezer",
         "url": "https://dragonball.fandom.com/es/wiki/Coola",
-        "image": null,
+        "image": "images/Coola_en_Dragon_Ball_Z.jpg",
         "names": {
             "japanese": "クウラ",
             "latin": null,
@@ -5282,7 +5152,7 @@
         "name": "Freezer",
         "category": "Raza de Freezer",
         "url": "https://dragonball.fandom.com/es/wiki/Freezer",
-        "image": null,
+        "image": "images/freezer.jpg",
         "names": {
             "japanese": "フリーザ",
             "latin": null,
@@ -5308,7 +5178,7 @@
         "name": "Frost",
         "category": "Raza de Freezer",
         "url": "https://dragonball.fandom.com/es/wiki/Frost",
-        "image": null,
+        "image": "images/Frost_Final_Artwork_.jpg",
         "names": {
             "japanese": "フロスト",
             "latin": null,
@@ -5360,7 +5230,7 @@
         "name": "Kuriza",
         "category": "Raza de Freezer",
         "url": "https://dragonball.fandom.com/es/wiki/Kuriza",
-        "image": null,
+        "image": "images/Kuriza_artwork_a_color.jpg",
         "names": {
             "japanese": "クリーザ",
             "latin": null,
@@ -5646,7 +5516,7 @@
         "name": "Bulma",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Bulma",
-        "image": null,
+        "image": "images/Bulma_en_Super_Hero.jpg",
         "names": {
             "japanese": "ブルマ",
             "latin": null,
@@ -5773,10 +5643,10 @@
     },
     {
         "id": 222,
-        "name": "Chi-Chi",
+        "name": "Milk",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Chi-Chi",
-        "image": null,
+        "image": "images/Milk_DB_inicio.jpg",
         "names": {
             "japanese": "チチ",
             "latin": null,
@@ -5828,7 +5698,7 @@
         "name": "Chaoz",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Chaoz",
-        "image": null,
+        "image": "images/Chaoz2013.jpg",
         "names": {
             "japanese": "餃子 [チャオズ]",
             "latin": null,
@@ -6162,32 +6032,6 @@
         }
     },
     {
-        "id": 237,
-        "name": "Equipo de Rugby",
-        "category": "Terrícolas",
-        "url": "https://dragonball.fandom.com/es/wiki/Equipo_de_Rugby",
-        "image": null,
-        "names": {
-            "japanese": null,
-            "latin": null,
-            "other_names": null
-        },
-        "gender": null,
-        "death_date": null,
-        "species": null,
-        "origin": null,
-        "residence": null,
-        "family": null,
-        "occupation": null,
-        "debut": {
-            "saga": null,
-            "manga": null,
-            "volume": null,
-            "anime": null,
-            "arc": null
-        }
-    },
-    {
         "id": 238,
         "name": "Freddy Hein",
         "category": "Terrícolas",
@@ -6270,7 +6114,7 @@
         "name": "General Copper",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/General_Copper",
-        "image": null,
+        "image": "images/General_Silver_Trans.jpg",
         "names": {
             "japanese": "カッパー将軍",
             "latin": null,
@@ -6374,7 +6218,7 @@
         "name": "General White",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/General_White",
-        "image": null,
+        "image": "images/White_DB.jpg",
         "names": {
             "japanese": "ホワイト将軍",
             "latin": null,
@@ -6582,7 +6426,7 @@
         "name": "Hombre de la banda Conejo",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Hombre_de_la_banda_Conejo",
-        "image": null,
+        "image": "images/Conejo_1_Dokkan.jpg",
         "names": {
             "japanese": null,
             "latin": null,
@@ -6683,10 +6527,10 @@
     },
     {
         "id": 257,
-        "name": "Kame-Sen'nin",
+        "name": "Maestro Roshi",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Kame_Sen%27nin",
-        "image": null,
+        "image": "images/KameSennin_Universo7.jpg",
         "names": {
             "japanese": "亀 仙 人",
             "latin": null,
@@ -6816,7 +6660,7 @@
         "name": "Krilin",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Krilin",
-        "image": null,
+        "image": "images/Krilin_Universo7.jpg",
         "names": {
             "japanese": "クリリン",
             "latin": null,
@@ -6943,10 +6787,10 @@
     },
     {
         "id": 267,
-        "name": "Lobo Hombre",
+        "name": "Hombre lobo",
         "category": "Terrícolas",
         "url": "https://dragonball.fandom.com/es/wiki/Lobo_Hombre",
-        "image": null,
+        "image": "images/Lobo_final.jpg",
         "names": {
             "japanese": "男狼",
             "latin": null,
@@ -13520,32 +13364,6 @@
         }
     },
     {
-        "id": 520,
-        "name": "Coronel Silver",
-        "category": "Soldados deEjército Red Ribbon",
-        "url": "https://dragonball.fandom.com/es/wiki/Coronel_Silver",
-        "image": "images/Coronel_Silver.jpg",
-        "names": {
-            "japanese": "シルバー大佐",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♂ Masculino",
-        "death_date": "Año 750",
-        "species": "Humano",
-        "origin": "Tierra ( Universo 7 )",
-        "residence": null,
-        "family": null,
-        "occupation": "Coronel del Ejército del Listón Rojo",
-        "debut": {
-            "saga": null,
-            "manga": "Capítulo 55",
-            "volume": "Tomo 5",
-            "anime": "Episodio 30",
-            "arc": "Arco del Ejército del Listón Rojo"
-        }
-    },
-    {
         "id": 521,
         "name": "Coronel Violet",
         "category": "Soldados deEjército Red Ribbon",
@@ -13672,58 +13490,6 @@
             "manga": "Capítulo 70",
             "volume": "Tomo 6",
             "anime": "Episodio 46",
-            "arc": "Arco del Ejército del Listón Rojo"
-        }
-    },
-    {
-        "id": 526,
-        "name": "General Copper",
-        "category": "Soldados deEjército Red Ribbon",
-        "url": "https://dragonball.fandom.com/es/wiki/General_Copper",
-        "image": null,
-        "names": {
-            "japanese": "カッパー将軍",
-            "latin": null,
-            "other_names": null
-        },
-        "gender": "♂ Masculino",
-        "death_date": null,
-        "species": null,
-        "origin": "Tierra",
-        "residence": null,
-        "family": null,
-        "occupation": "General del Ejército del Listón Rojo",
-        "debut": {
-            "saga": null,
-            "manga": "Capítulo 93 Mención",
-            "volume": "Tomo 8",
-            "anime": "Episodio 65 Mención",
-            "arc": "Arco del Ejército del Listón Rojo"
-        }
-    },
-    {
-        "id": 527,
-        "name": "General White",
-        "category": "Soldados deEjército Red Ribbon",
-        "url": "https://dragonball.fandom.com/es/wiki/General_White",
-        "image": null,
-        "names": {
-            "japanese": "ホワイト将軍",
-            "latin": null,
-            "other_names": "Coronel White"
-        },
-        "gender": "♂ Masculino",
-        "death_date": null,
-        "species": "Humano",
-        "origin": "Tierra ( Universo 7 )",
-        "residence": null,
-        "family": null,
-        "occupation": "General del Ejército del Listón Rojo Militar",
-        "debut": {
-            "saga": null,
-            "manga": "Capítulo 56",
-            "volume": "Tomo 5",
-            "anime": "Episodio 34",
             "arc": "Arco del Ejército del Listón Rojo"
         }
     },
